@@ -46,6 +46,8 @@ body {
 }
 
 #new-btn {
+    margin-left: 40%;
+    margin-right: 40%;
     padding: 1rem;
     font-size: 1.5rem;
     background-color: #191913;
@@ -70,4 +72,5 @@ body {
 
 .hide {
     display: none;
+
 }
